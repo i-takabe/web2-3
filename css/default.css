@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+body{
+ background-image: url("img/publicdomainq-0010496zzt.jpg"); 
+ background-repeat: repeat;
+}
+
 h1 span{
   font-size: 60.0pt;
   color: #FF0000;
