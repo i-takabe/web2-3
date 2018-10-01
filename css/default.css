@@ -14,6 +14,8 @@ a:visited{
 }
 
 #tea{
+  font-size: 30.0pt;
+  font-weight: bold;
   color: #FFFFFF
   border: #FD0000 1px dotted;
   border-right: #FD0000 1px dotted;
@@ -24,5 +26,5 @@ a:visited{
 .edit{
   font-style: italic;
   color: #F2E700;
-   text-align: center;
+  text-align: center;
 }
