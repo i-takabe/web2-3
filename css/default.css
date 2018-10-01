@@ -20,5 +20,7 @@ a:visited{
 }
 
 .edit{
-   
+  font-style: italic;
+  color: #F2E700;
+   text-align: center;
 }
