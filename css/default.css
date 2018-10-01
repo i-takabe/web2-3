@@ -1,8 +1,24 @@
 @charset "UTF-8";
 
 h1 span{
-  font^size: 2.3em;
-  background-color: #000059;
-  color: #FFFFFF;
-  line-height: 2.0em:
+  font^size: 60pt;
+  color: #FF0000;
+  line-height: 2.0em;
+}
+
+a:link{
+  color:0039FD
+}
+a:visited{
+  color:  #990000;
+}
+
+#tea{
+  background-color: #C82D00;
+  color: #FFFFFF
+  border: #FD0000 1px dotted;
+}
+
+.edit{
+   
 }
