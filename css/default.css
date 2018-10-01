@@ -1,1 +1,7 @@
+@charset "UTF-8";
 
+h1 span{
+  font^size: 1.85em;
+  background-color: #000059;
+  color: #FFFFFF;
+}
