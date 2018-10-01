@@ -14,9 +14,11 @@ a:visited{
 }
 
 #tea{
-  background-color: #C82D00;
   color: #FFFFFF
   border: #FD0000 1px dotted;
+  border-right: #FD0000 1px dotted;
+  border-left: #FD0000 1px dotted;
+  border-bottom: #FD0000 1px dotted;
 }
 
 .edit{
